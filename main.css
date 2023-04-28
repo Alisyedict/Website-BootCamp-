@@ -3,7 +3,29 @@ body {
     font-style: italic;
     font-family: Arial, Helvetica, sans-serif;
 }
+*{
+border-color:black;
+border-style: solid;
+border-width: 1px;
+
+}
 
 .list {
-    background-color: black;
+    background-color: rgb(255, 0, 0);
+}
+
+ .coolText{
+    color:black;
+    font-size: 30px;
+
+
+} 
+
+#mainheader{
+
+
+ color:rgb(0, 0, 0);
+ font-size: 80px; 
+ 
+ 
 }
